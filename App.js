@@ -44,7 +44,7 @@ export default App;
      
 function Home(){
   return(
-    <div>Inside Home</div>
+    <div>Inside Home: GO TO CONTACT PAGE FOR USER CARDS</div>
  )
 }
 
